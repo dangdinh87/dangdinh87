@@ -14,13 +14,13 @@ I'm a passionate front-end developer with over 2 years of experience specializin
 
 #### 🛠 Tech Stack
 
--   **Languages:** HTML, CSS, JavaScript, Reactjs(Umijs), Golang(Echo)
+-   **Languages:** HTML, CSS (Bootstrap, Tailwindcss, Antd), JavaScript, Reactjs(Umijs, Nextjs), Golang(Echo)
 -   **Databases:** MySQL, MongoDB
 -   **Tools & Platforms:** VSCode, Goland, Git,...
 
 #### 🌱 What I'm Currently Learning
 
--   Frontend Development (ReactJS, UmiJS)
+-   Frontend Development (ReactJS, UmiJS, Nextjs)
 -   Backend Development with Golang
 
 #### 🌐 Follow me around the web:
